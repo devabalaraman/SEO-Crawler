@@ -14,7 +14,7 @@ A Django-based web crawler project that provides APIs to crawl websites and retr
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/devabalaraman/SEO-Crawler.git
 cd your-repo
 
 ### 2. Create a virtual environment
